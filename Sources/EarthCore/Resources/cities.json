@@ -1,0 +1,1460 @@
+[
+  {
+    "name": "Vatican City",
+    "longitude": 12.453387,
+    "latitude": 41.903282,
+    "population": 832
+  },
+  {
+    "name": "San Marino",
+    "longitude": 12.44177,
+    "latitude": 43.936096,
+    "population": 29579
+  },
+  {
+    "name": "Vaduz",
+    "longitude": 9.51667,
+    "latitude": 47.133724,
+    "population": 36281
+  },
+  {
+    "name": "Lobamba",
+    "longitude": 31.199997,
+    "latitude": -26.466667,
+    "population": 9782
+  },
+  {
+    "name": "Luxembourg",
+    "longitude": 6.130003,
+    "latitude": 49.61166,
+    "population": 107260
+  },
+  {
+    "name": "Palikir",
+    "longitude": 158.149974,
+    "latitude": 6.916644,
+    "population": 4645
+  },
+  {
+    "name": "Majuro",
+    "longitude": 171.38,
+    "latitude": 7.103004,
+    "population": 25400
+  },
+  {
+    "name": "Funafuti",
+    "longitude": 179.216647,
+    "latitude": -8.516652,
+    "population": 4749
+  },
+  {
+    "name": "Melekeok",
+    "longitude": 134.626549,
+    "latitude": 7.487396,
+    "population": 7026
+  },
+  {
+    "name": "Bir Lehlou",
+    "longitude": -9.652522,
+    "latitude": 26.119167,
+    "population": 500
+  },
+  {
+    "name": "Monaco",
+    "longitude": 7.406913,
+    "latitude": 43.739646,
+    "population": 36371
+  },
+  {
+    "name": "Tarawa",
+    "longitude": 173.017571,
+    "latitude": 1.338188,
+    "population": 28802
+  },
+  {
+    "name": "Moroni",
+    "longitude": 43.240244,
+    "latitude": -11.704158,
+    "population": 128698
+  },
+  {
+    "name": "Andorra",
+    "longitude": 1.526594,
+    "latitude": 42.510753,
+    "population": 53998
+  },
+  {
+    "name": "Port-of-Spain",
+    "longitude": -61.517031,
+    "latitude": 10.651997,
+    "population": 294934
+  },
+  {
+    "name": "Kigali",
+    "longitude": 30.058586,
+    "latitude": -1.951644,
+    "population": 860000
+  },
+  {
+    "name": "Mbabane",
+    "longitude": 31.133335,
+    "latitude": -26.316651,
+    "population": 90138
+  },
+  {
+    "name": "Juba",
+    "longitude": 31.580026,
+    "latitude": 4.829975,
+    "population": 111975
+  },
+  {
+    "name": "The Hague",
+    "longitude": 4.269961,
+    "latitude": 52.080037,
+    "population": 1406000
+  },
+  {
+    "name": "Ljubljana",
+    "longitude": 14.514969,
+    "latitude": 46.055288,
+    "population": 314807
+  },
+  {
+    "name": "Bratislava",
+    "longitude": 17.116981,
+    "latitude": 48.150018,
+    "population": 423737
+  },
+  {
+    "name": "Doha",
+    "longitude": 51.532968,
+    "latitude": 25.286556,
+    "population": 1450000
+  },
+  {
+    "name": "Podgorica",
+    "longitude": 19.266307,
+    "latitude": 42.465972,
+    "population": 145850
+  },
+  {
+    "name": "Sri Jayawardenepura Kotte",
+    "longitude": 79.949993,
+    "latitude": 6.900004,
+    "population": 115826
+  },
+  {
+    "name": "Baguio",
+    "longitude": 120.569943,
+    "latitude": 16.429991,
+    "population": 447824
+  },
+  {
+    "name": "Dodoma",
+    "longitude": 35.750004,
+    "latitude": -6.183306,
+    "population": 218269
+  },
+  {
+    "name": "Bern",
+    "longitude": 7.466976,
+    "latitude": 46.916683,
+    "population": 275329
+  },
+  {
+    "name": "Laayoune",
+    "longitude": -13.200006,
+    "latitude": 27.149982,
+    "population": 188084
+  },
+  {
+    "name": "Pristina",
+    "longitude": 21.165984,
+    "latitude": 42.66671,
+    "population": 465186
+  },
+  {
+    "name": "Roseau",
+    "longitude": -61.387013,
+    "latitude": 15.301016,
+    "population": 23336
+  },
+  {
+    "name": "Djibouti",
+    "longitude": 43.148002,
+    "latitude": 11.595014,
+    "population": 923000
+  },
+  {
+    "name": "Putrajaya",
+    "longitude": 101.695037,
+    "latitude": 2.932515,
+    "population": 67964
+  },
+  {
+    "name": "Kyoto",
+    "longitude": 135.748052,
+    "latitude": 35.031938,
+    "population": 1805000
+  },
+  {
+    "name": "Banjul",
+    "longitude": -16.591701,
+    "latitude": 13.453876,
+    "population": 43094
+  },
+  {
+    "name": "Skopje",
+    "longitude": 21.433461,
+    "latitude": 42.000006,
+    "population": 494087
+  },
+  {
+    "name": "Bridgetown",
+    "longitude": -59.616527,
+    "latitude": 13.102003,
+    "population": 191152
+  },
+  {
+    "name": "Porto-Novo",
+    "longitude": 2.616626,
+    "latitude": 6.483311,
+    "population": 300000
+  },
+  {
+    "name": "Bujumbura",
+    "longitude": 29.360006,
+    "latitude": -3.376087,
+    "population": 331700
+  },
+  {
+    "name": "Kingstown",
+    "longitude": -61.220236,
+    "latitude": 13.155756,
+    "population": 49485
+  },
+  {
+    "name": "Castries",
+    "longitude": -60.992875,
+    "latitude": 14.007875,
+    "population": 37963
+  },
+  {
+    "name": "Basseterre",
+    "longitude": -62.717009,
+    "latitude": 17.302031,
+    "population": 21887
+  },
+  {
+    "name": "Port Louis",
+    "longitude": 57.499994,
+    "latitude": -20.166639,
+    "population": 595491
+  },
+  {
+    "name": "Saint George's",
+    "longitude": -61.741643,
+    "latitude": 12.052633,
+    "population": 33734
+  },
+  {
+    "name": "Manama",
+    "longitude": 50.583052,
+    "latitude": 26.236136,
+    "population": 563920
+  },
+  {
+    "name": "Saint John's",
+    "longitude": -61.850034,
+    "latitude": 17.118036,
+    "population": 35499
+  },
+  {
+    "name": "Montevideo",
+    "longitude": -56.186823,
+    "latitude": -34.905376,
+    "population": 1513000
+  },
+  {
+    "name": "Lomé",
+    "longitude": 1.220811,
+    "latitude": 6.133883,
+    "population": 1452000
+  },
+  {
+    "name": "Tunis",
+    "longitude": 10.179678,
+    "latitude": 36.802778,
+    "population": 2412500
+  },
+  {
+    "name": "Abu Dhabi",
+    "longitude": 54.366593,
+    "latitude": 24.466684,
+    "population": 603492
+  },
+  {
+    "name": "Ashgabat",
+    "longitude": 58.383299,
+    "latitude": 37.949995,
+    "population": 727700
+  },
+  {
+    "name": "Lusaka",
+    "longitude": 28.281382,
+    "latitude": -15.414698,
+    "population": 1328000
+  },
+  {
+    "name": "Harare",
+    "longitude": 31.042764,
+    "latitude": -17.815844,
+    "population": 1572000
+  },
+  {
+    "name": "Dili",
+    "longitude": 125.579456,
+    "latitude": -8.559388,
+    "population": 234331
+  },
+  {
+    "name": "Port Vila",
+    "longitude": 168.316641,
+    "latitude": -17.73335,
+    "population": 44040
+  },
+  {
+    "name": "Tegucigalpa",
+    "longitude": -87.219475,
+    "latitude": 14.103991,
+    "population": 946000
+  },
+  {
+    "name": "Georgetown",
+    "longitude": -58.167029,
+    "latitude": 6.801974,
+    "population": 264350
+  },
+  {
+    "name": "Reykjavík",
+    "longitude": -21.936546,
+    "latitude": 64.143459,
+    "population": 166212
+  },
+  {
+    "name": "Port-au-Prince",
+    "longitude": -72.33798,
+    "latitude": 18.54297,
+    "population": 1998000
+  },
+  {
+    "name": "Kampala",
+    "longitude": 32.581378,
+    "latitude": 0.318605,
+    "population": 1420000
+  },
+  {
+    "name": "Paramaribo",
+    "longitude": -55.167031,
+    "latitude": 5.83503,
+    "population": 254169
+  },
+  {
+    "name": "Niamey",
+    "longitude": 2.11471,
+    "latitude": 13.518652,
+    "population": 915000
+  },
+  {
+    "name": "Dushanbe",
+    "longitude": 68.773879,
+    "latitude": 38.560035,
+    "population": 1086244
+  },
+  {
+    "name": "Asunción",
+    "longitude": -57.625834,
+    "latitude": -25.290671,
+    "population": 1870000
+  },
+  {
+    "name": "Managua",
+    "longitude": -86.270437,
+    "latitude": 12.154962,
+    "population": 920000
+  },
+  {
+    "name": "Freetown",
+    "longitude": -13.236162,
+    "latitude": 8.471957,
+    "population": 827000
+  },
+  {
+    "name": "Islamabad",
+    "longitude": 73.08063,
+    "latitude": 33.689368,
+    "population": 780000
+  },
+  {
+    "name": "Kathmandu",
+    "longitude": 85.314696,
+    "latitude": 27.718638,
+    "population": 895000
+  },
+  {
+    "name": "Bloemfontein",
+    "longitude": 26.229913,
+    "latitude": -29.119994,
+    "population": 463064
+  },
+  {
+    "name": "Pretoria",
+    "longitude": 28.227483,
+    "latitude": -25.704975,
+    "population": 1338000
+  },
+  {
+    "name": "Port Moresby",
+    "longitude": 147.192504,
+    "latitude": -9.464708,
+    "population": 283733
+  },
+  {
+    "name": "Honiara",
+    "longitude": 159.949766,
+    "latitude": -9.437994,
+    "population": 76328
+  },
+  {
+    "name": "Panama City",
+    "longitude": -79.534983,
+    "latitude": 8.969963,
+    "population": 1281000
+  },
+  {
+    "name": "Rabat",
+    "longitude": -6.836408,
+    "latitude": 34.025307,
+    "population": 1705000
+  },
+  {
+    "name": "Chișinău",
+    "longitude": 28.857711,
+    "latitude": 47.005024,
+    "population": 688134
+  },
+  {
+    "name": "Maputo",
+    "longitude": 32.587217,
+    "latitude": -25.953332,
+    "population": 1446000
+  },
+  {
+    "name": "Mogadishu",
+    "longitude": 45.364732,
+    "latitude": 2.068627,
+    "population": 1100000
+  },
+  {
+    "name": "Muscat",
+    "longitude": 58.378311,
+    "latitude": 23.585179,
+    "population": 734697
+  },
+  {
+    "name": "Colombo",
+    "longitude": 79.857751,
+    "latitude": 6.931966,
+    "population": 217000
+  },
+  {
+    "name": "Ulaanbaatar",
+    "longitude": 106.91467,
+    "latitude": 47.918619,
+    "population": 885000
+  },
+  {
+    "name": "Windhoek",
+    "longitude": 17.083546,
+    "latitude": -22.570006,
+    "population": 268132
+  },
+  {
+    "name": "Abuja",
+    "longitude": 7.489505,
+    "latitude": 9.05462,
+    "population": 1576000
+  },
+  {
+    "name": "Bissau",
+    "longitude": -15.598361,
+    "latitude": 11.865024,
+    "population": 403339
+  },
+  {
+    "name": "Amman",
+    "longitude": 35.931354,
+    "latitude": 31.951971,
+    "population": 1060000
+  },
+  {
+    "name": "Vilnius",
+    "longitude": 25.316635,
+    "latitude": 54.683366,
+    "population": 542366
+  },
+  {
+    "name": "Riga",
+    "longitude": 24.099965,
+    "latitude": 56.950024,
+    "population": 742572
+  },
+  {
+    "name": "Bishkek",
+    "longitude": 74.583258,
+    "latitude": 42.875025,
+    "population": 837000
+  },
+  {
+    "name": "Maseru",
+    "longitude": 27.483273,
+    "latitude": -29.316674,
+    "population": 361324
+  },
+  {
+    "name": "Antananarivo",
+    "longitude": 47.514678,
+    "latitude": -18.914691,
+    "population": 1697000
+  },
+  {
+    "name": "Quito",
+    "longitude": -78.501997,
+    "latitude": -0.213042,
+    "population": 1701000
+  },
+  {
+    "name": "San José",
+    "longitude": -84.078814,
+    "latitude": 9.930371,
+    "population": 1284000
+  },
+  {
+    "name": "San Salvador",
+    "longitude": -89.215576,
+    "latitude": 13.70328,
+    "population": 1433000
+  },
+  {
+    "name": "Kingston",
+    "longitude": -76.767434,
+    "latitude": 17.977077,
+    "population": 937700
+  },
+  {
+    "name": "N'Djamena",
+    "longitude": 15.047202,
+    "latitude": 12.115042,
+    "population": 989000
+  },
+  {
+    "name": "Malabo",
+    "longitude": 8.783278,
+    "latitude": 3.750015,
+    "population": 155963
+  },
+  {
+    "name": "Asmara",
+    "longitude": 38.933324,
+    "latitude": 15.333339,
+    "population": 620802
+  },
+  {
+    "name": "Zagreb",
+    "longitude": 15.999995,
+    "latitude": 45.800007,
+    "population": 722526
+  },
+  {
+    "name": "Tallinn",
+    "longitude": 24.728041,
+    "latitude": 59.433877,
+    "population": 394024
+  },
+  {
+    "name": "Lilongwe",
+    "longitude": 33.783302,
+    "latitude": -13.983295,
+    "population": 646750
+  },
+  {
+    "name": "Guatemala City",
+    "longitude": -90.528911,
+    "latitude": 14.623081,
+    "population": 1024000
+  },
+  {
+    "name": "Libreville",
+    "longitude": 9.457965,
+    "latitude": 0.385389,
+    "population": 578156
+  },
+  {
+    "name": "Suva",
+    "longitude": 178.441707,
+    "latitude": -18.133016,
+    "population": 175399
+  },
+  {
+    "name": "Valparaíso",
+    "longitude": -71.617026,
+    "latitude": -33.047739,
+    "population": 854000
+  },
+  {
+    "name": "Nouakchott",
+    "longitude": -15.97534,
+    "latitude": 18.086427,
+    "population": 742144
+  },
+  {
+    "name": "Bamako",
+    "longitude": -8.001985,
+    "latitude": 12.65196,
+    "population": 1494000
+  },
+  {
+    "name": "Beirut",
+    "longitude": 35.507762,
+    "latitude": 33.873921,
+    "population": 1846000
+  },
+  {
+    "name": "Tbilisi",
+    "longitude": 44.78885,
+    "latitude": 41.726956,
+    "population": 1100000
+  },
+  {
+    "name": "Nur-Sultan",
+    "longitude": 71.427774,
+    "latitude": 51.181125,
+    "population": 345604
+  },
+  {
+    "name": "Vientiane",
+    "longitude": 102.59998,
+    "latitude": 17.966693,
+    "population": 754000
+  },
+  {
+    "name": "Brazzaville",
+    "longitude": 15.282744,
+    "latitude": -4.25724,
+    "population": 1355000
+  },
+  {
+    "name": "Conakry",
+    "longitude": -13.682181,
+    "latitude": 9.533469,
+    "population": 1494000
+  },
+  {
+    "name": "Yamoussoukro",
+    "longitude": -5.275503,
+    "latitude": 6.818381,
+    "population": 206499
+  },
+  {
+    "name": "Ottawa",
+    "longitude": -75.701961,
+    "latitude": 45.418643,
+    "population": 1145000
+  },
+  {
+    "name": "Belgrade",
+    "longitude": 20.466045,
+    "latitude": 44.820591,
+    "population": 1099000
+  },
+  {
+    "name": "Bandar Seri Begawan",
+    "longitude": 114.933284,
+    "latitude": 4.883331,
+    "population": 296500
+  },
+  {
+    "name": "Sucre",
+    "longitude": -65.259516,
+    "latitude": -19.040971,
+    "population": 224838
+  },
+  {
+    "name": "Belmopan",
+    "longitude": -88.767073,
+    "latitude": 17.252033,
+    "population": 15220
+  },
+  {
+    "name": "Bangui",
+    "longitude": 18.558288,
+    "latitude": 4.366644,
+    "population": 831925
+  },
+  {
+    "name": "Yaoundé",
+    "longitude": 11.514705,
+    "latitude": 3.868647,
+    "population": 1611000
+  },
+  {
+    "name": "Tirana",
+    "longitude": 19.818883,
+    "latitude": 41.327541,
+    "population": 895350
+  },
+  {
+    "name": "Yerevan",
+    "longitude": 44.511606,
+    "latitude": 40.183097,
+    "population": 1102000
+  },
+  {
+    "name": "Baku",
+    "longitude": 49.860271,
+    "latitude": 40.397218,
+    "population": 2122300
+  },
+  {
+    "name": "Phnom Penh",
+    "longitude": 104.914689,
+    "latitude": 11.551976,
+    "population": 1466000
+  },
+  {
+    "name": "La Paz",
+    "longitude": -68.151931,
+    "latitude": -16.496028,
+    "population": 1590000
+  },
+  {
+    "name": "Cotonou",
+    "longitude": 2.404355,
+    "latitude": 6.36298,
+    "population": 762000
+  },
+  {
+    "name": "Sofia",
+    "longitude": 23.314708,
+    "latitude": 42.685295,
+    "population": 1185000
+  },
+  {
+    "name": "Minsk",
+    "longitude": 27.564681,
+    "latitude": 53.901923,
+    "population": 1805000
+  },
+  {
+    "name": "Thimphu",
+    "longitude": 89.639014,
+    "latitude": 27.472986,
+    "population": 98676
+  },
+  {
+    "name": "Gaborone",
+    "longitude": 25.911948,
+    "latitude": -24.646314,
+    "population": 208411
+  },
+  {
+    "name": "Canberra",
+    "longitude": 149.129026,
+    "latitude": -35.283029,
+    "population": 327700
+  },
+  {
+    "name": "Ouagadougou",
+    "longitude": -1.52667,
+    "latitude": 12.372262,
+    "population": 1149000
+  },
+  {
+    "name": "Sarajevo",
+    "longitude": 18.383002,
+    "latitude": 43.850022,
+    "population": 696731
+  },
+  {
+    "name": "Naypyidaw",
+    "longitude": 96.116673,
+    "latitude": 19.768503,
+    "population": 930000
+  },
+  {
+    "name": "Nuku'alofa",
+    "longitude": -175.220564,
+    "latitude": -21.138512,
+    "population": 42620
+  },
+  {
+    "name": "Hargeisa",
+    "longitude": 44.06531,
+    "latitude": 9.560022,
+    "population": 477876
+  },
+  {
+    "name": "Victoria",
+    "longitude": 55.44999,
+    "latitude": -4.616632,
+    "population": 33576
+  },
+  {
+    "name": "São Tomé",
+    "longitude": 6.72965,
+    "latitude": 0.337466,
+    "population": 88219
+  },
+  {
+    "name": "Apia",
+    "longitude": -171.768599,
+    "latitude": -13.835715,
+    "population": 61916
+  },
+  {
+    "name": "Valletta",
+    "longitude": 14.514711,
+    "latitude": 35.899732,
+    "population": 368250
+  },
+  {
+    "name": "Malé",
+    "longitude": 73.508901,
+    "latitude": 4.172037,
+    "population": 112927
+  },
+  {
+    "name": "Jerusalem",
+    "longitude": 35.206626,
+    "latitude": 31.778408,
+    "population": 1029300
+  },
+  {
+    "name": "Praia",
+    "longitude": -23.516689,
+    "latitude": 14.916698,
+    "population": 113364
+  },
+  {
+    "name": "Nassau",
+    "longitude": -77.350044,
+    "latitude": 25.08339,
+    "population": 227940
+  },
+  {
+    "name": "Nicosia",
+    "longitude": 33.366635,
+    "latitude": 35.166677,
+    "population": 224300
+  },
+  {
+    "name": "Wellington",
+    "longitude": 174.777201,
+    "latitude": -41.292068,
+    "population": 393400
+  },
+  {
+    "name": "Hanoi",
+    "longitude": 105.848068,
+    "latitude": 21.035273,
+    "population": 4378000
+  },
+  {
+    "name": "Ankara",
+    "longitude": 32.862446,
+    "latitude": 39.929184,
+    "population": 3716000
+  },
+  {
+    "name": "Budapest",
+    "longitude": 19.081375,
+    "latitude": 47.501952,
+    "population": 1679000
+  },
+  {
+    "name": "Sanaa",
+    "longitude": 44.204648,
+    "latitude": 15.356679,
+    "population": 2008000
+  },
+  {
+    "name": "Bucharest",
+    "longitude": 26.098001,
+    "latitude": 44.435318,
+    "population": 1942000
+  },
+  {
+    "name": "Damascus",
+    "longitude": 36.29805,
+    "latitude": 33.50198,
+    "population": 2466000
+  },
+  {
+    "name": "Lisbon",
+    "longitude": -9.146812,
+    "latitude": 38.724669,
+    "population": 2812000
+  },
+  {
+    "name": "Khartoum",
+    "longitude": 32.532233,
+    "latitude": 15.590024,
+    "population": 4754000
+  },
+  {
+    "name": "Oslo",
+    "longitude": 10.748033,
+    "latitude": 59.918636,
+    "population": 835000
+  },
+  {
+    "name": "Warsaw",
+    "longitude": 21.005347,
+    "latitude": 52.230872,
+    "population": 1707000
+  },
+  {
+    "name": "Pyongyang",
+    "longitude": 125.752745,
+    "latitude": 39.021385,
+    "population": 3300000
+  },
+  {
+    "name": "Dar es Salaam",
+    "longitude": 39.266396,
+    "latitude": -6.798067,
+    "population": 2930000
+  },
+  {
+    "name": "Dublin",
+    "longitude": -6.25698,
+    "latitude": 53.346731,
+    "population": 1059000
+  },
+  {
+    "name": "Monrovia",
+    "longitude": -10.79966,
+    "latitude": 6.314582,
+    "population": 1041000
+  },
+  {
+    "name": "Kuala Lumpur",
+    "longitude": 101.688699,
+    "latitude": 3.139797,
+    "population": 1448000
+  },
+  {
+    "name": "Havana",
+    "longitude": -82.366128,
+    "latitude": 23.133905,
+    "population": 2174000
+  },
+  {
+    "name": "Prague",
+    "longitude": 14.422939,
+    "latitude": 50.086967,
+    "population": 1162000
+  },
+  {
+    "name": "Kuwait City",
+    "longitude": 47.976355,
+    "latitude": 29.371664,
+    "population": 2063000
+  },
+  {
+    "name": "Santo Domingo",
+    "longitude": -69.929742,
+    "latitude": 18.470745,
+    "population": 2154000
+  },
+  {
+    "name": "Accra",
+    "longitude": -0.218662,
+    "latitude": 5.55198,
+    "population": 2121000
+  },
+  {
+    "name": "Tripoli",
+    "longitude": 13.180012,
+    "latitude": 32.8925,
+    "population": 2189000
+  },
+  {
+    "name": "Tel Aviv",
+    "longitude": 34.768066,
+    "latitude": 32.081937,
+    "population": 3112000
+  },
+  {
+    "name": "Helsinki",
+    "longitude": 24.932457,
+    "latitude": 60.163804,
+    "population": 1115000
+  },
+  {
+    "name": "København",
+    "longitude": 12.56154,
+    "latitude": 55.68051,
+    "population": 1085000
+  },
+  {
+    "name": "Abidjan",
+    "longitude": -4.020207,
+    "latitude": 5.323126,
+    "population": 3802000
+  },
+  {
+    "name": "Brasília",
+    "longitude": -47.917998,
+    "latitude": -15.781394,
+    "population": 3716996
+  },
+  {
+    "name": "Brussels",
+    "longitude": 4.331371,
+    "latitude": 50.835263,
+    "population": 1743000
+  },
+  {
+    "name": "Dhaka",
+    "longitude": 90.406634,
+    "latitude": 23.725006,
+    "population": 12797394
+  },
+  {
+    "name": "Luanda",
+    "longitude": 13.232481,
+    "latitude": -8.83634,
+    "population": 5172900
+  },
+  {
+    "name": "Algiers",
+    "longitude": 3.048607,
+    "latitude": 36.765011,
+    "population": 3354000
+  },
+  {
+    "name": "Yangon",
+    "longitude": 96.164732,
+    "latitude": 16.7853,
+    "population": 4088000
+  },
+  {
+    "name": "San Francisco",
+    "longitude": -122.3996,
+    "latitude": 37.784263,
+    "population": 3450000
+  },
+  {
+    "name": "Denver",
+    "longitude": -104.985962,
+    "latitude": 39.741134,
+    "population": 2313000
+  },
+  {
+    "name": "Houston",
+    "longitude": -95.348436,
+    "latitude": 29.741273,
+    "population": 4459000
+  },
+  {
+    "name": "Miami",
+    "longitude": -80.226052,
+    "latitude": 25.789557,
+    "population": 5585000
+  },
+  {
+    "name": "Atlanta",
+    "longitude": -84.367642,
+    "latitude": 33.739457,
+    "population": 4506000
+  },
+  {
+    "name": "Chicago",
+    "longitude": -87.635237,
+    "latitude": 41.847961,
+    "population": 8990000
+  },
+  {
+    "name": "Caracas",
+    "longitude": -66.918983,
+    "latitude": 10.502944,
+    "population": 2985000
+  },
+  {
+    "name": "Kyiv",
+    "longitude": 30.514682,
+    "latitude": 50.435313,
+    "population": 2709000
+  },
+  {
+    "name": "Dubai",
+    "longitude": 55.286946,
+    "latitude": 25.214912,
+    "population": 1379000
+  },
+  {
+    "name": "Tashkent",
+    "longitude": 69.268823,
+    "latitude": 41.303828,
+    "population": 2184000
+  },
+  {
+    "name": "Madrid",
+    "longitude": -3.685297,
+    "latitude": 40.401972,
+    "population": 5567000
+  },
+  {
+    "name": "Geneva",
+    "longitude": 6.140028,
+    "latitude": 46.210008,
+    "population": 1240000
+  },
+  {
+    "name": "Stockholm",
+    "longitude": 18.0663,
+    "latitude": 59.324127,
+    "population": 1264000
+  },
+  {
+    "name": "Bangkok",
+    "longitude": 100.514699,
+    "latitude": 13.751945,
+    "population": 6704000
+  },
+  {
+    "name": "Lima",
+    "longitude": -77.052008,
+    "latitude": -12.046067,
+    "population": 8012000
+  },
+  {
+    "name": "Dakar",
+    "longitude": -17.475076,
+    "latitude": 14.717778,
+    "population": 2604000
+  },
+  {
+    "name": "Johannesburg",
+    "longitude": 28.028064,
+    "latitude": -26.168099,
+    "population": 3435000
+  },
+  {
+    "name": "Amsterdam",
+    "longitude": 4.914694,
+    "latitude": 52.351914,
+    "population": 1031000
+  },
+  {
+    "name": "Casablanca",
+    "longitude": -7.618313,
+    "latitude": 33.601922,
+    "population": 3181000
+  },
+  {
+    "name": "Seoul",
+    "longitude": 126.997785,
+    "latitude": 37.568295,
+    "population": 9796000
+  },
+  {
+    "name": "Manila",
+    "longitude": 120.980271,
+    "latitude": 14.606105,
+    "population": 11100000
+  },
+  {
+    "name": "Monterrey",
+    "longitude": -100.331931,
+    "latitude": 25.671941,
+    "population": 3712000
+  },
+  {
+    "name": "Berlin",
+    "longitude": 13.399603,
+    "latitude": 52.523764,
+    "population": 3406000
+  },
+  {
+    "name": "Ürümqi",
+    "longitude": 87.57306,
+    "latitude": 43.806958,
+    "population": 3575000
+  },
+  {
+    "name": "Chengdu",
+    "longitude": 104.068074,
+    "latitude": 30.671946,
+    "population": 4123000
+  },
+  {
+    "name": "Ōsaka",
+    "longitude": 135.503754,
+    "latitude": 34.691095,
+    "population": 11294000
+  },
+  {
+    "name": "Kinshasa",
+    "longitude": 15.313026,
+    "latitude": -4.327778,
+    "population": 7843000
+  },
+  {
+    "name": "New Delhi",
+    "longitude": 77.19998,
+    "latitude": 28.600023,
+    "population": 317797
+  },
+  {
+    "name": "Bengaluru",
+    "longitude": 77.558064,
+    "latitude": 12.971941,
+    "population": 6787000
+  },
+  {
+    "name": "Athens",
+    "longitude": 23.731375,
+    "latitude": 37.985272,
+    "population": 3242000
+  },
+  {
+    "name": "Baghdad",
+    "longitude": 44.391923,
+    "latitude": 33.340594,
+    "population": 5054000
+  },
+  {
+    "name": "Addis Ababa",
+    "longitude": 38.698059,
+    "latitude": 9.035256,
+    "population": 3100000
+  },
+  {
+    "name": "Tehran",
+    "longitude": 51.422398,
+    "latitude": 35.673889,
+    "population": 7873000
+  },
+  {
+    "name": "Vancouver",
+    "longitude": -123.12359,
+    "latitude": 49.275362,
+    "population": 2313328
+  },
+  {
+    "name": "Toronto",
+    "longitude": -79.389459,
+    "latitude": 43.664645,
+    "population": 5213000
+  },
+  {
+    "name": "Buenos Aires",
+    "longitude": -58.432513,
+    "latitude": -34.610715,
+    "population": 12795000
+  },
+  {
+    "name": "Kabul",
+    "longitude": 69.181314,
+    "latitude": 34.518636,
+    "population": 3277000
+  },
+  {
+    "name": "Vienna",
+    "longitude": 16.364693,
+    "latitude": 48.201961,
+    "population": 2400000
+  },
+  {
+    "name": "Melbourne",
+    "longitude": 144.97307,
+    "latitude": -37.818086,
+    "population": 4170000
+  },
+  {
+    "name": "Taipei",
+    "longitude": 121.568333,
+    "latitude": 25.035833,
+    "population": 6900273
+  },
+  {
+    "name": "Auckland",
+    "longitude": 174.763027,
+    "latitude": -36.848055,
+    "population": 1377200
+  },
+  {
+    "name": "Los Angeles",
+    "longitude": -118.231986,
+    "latitude": 34.049219,
+    "population": 12500000
+  },
+  {
+    "name": "Washington,  D.C.",
+    "longitude": -77.011364,
+    "latitude": 38.901495,
+    "population": 4338000
+  },
+  {
+    "name": "New York",
+    "longitude": -73.995718,
+    "latitude": 40.721562,
+    "population": 19040000
+  },
+  {
+    "name": "London",
+    "longitude": -0.118668,
+    "latitude": 51.501941,
+    "population": 8567000
+  },
+  {
+    "name": "Istanbul",
+    "longitude": 28.974277,
+    "latitude": 41.017602,
+    "population": 10061000
+  },
+  {
+    "name": "Riyadh",
+    "longitude": 46.720487,
+    "latitude": 24.634497,
+    "population": 4465000
+  },
+  {
+    "name": "Cape Town",
+    "longitude": 18.433042,
+    "latitude": -33.918065,
+    "population": 3215000
+  },
+  {
+    "name": "Moscow",
+    "longitude": 37.613577,
+    "latitude": 55.75411,
+    "population": 10452000
+  },
+  {
+    "name": "Mexico City",
+    "longitude": -99.132934,
+    "latitude": 19.444388,
+    "population": 19028000
+  },
+  {
+    "name": "Lagos",
+    "longitude": 3.389585,
+    "latitude": 6.445208,
+    "population": 9466000
+  },
+  {
+    "name": "Rome",
+    "longitude": 12.481313,
+    "latitude": 41.897902,
+    "population": 3339000
+  },
+  {
+    "name": "Beijing",
+    "longitude": 116.394201,
+    "latitude": 39.90172,
+    "population": 11106000
+  },
+  {
+    "name": "Nairobi",
+    "longitude": 36.814711,
+    "latitude": -1.281401,
+    "population": 3010000
+  },
+  {
+    "name": "Jakarta",
+    "longitude": 106.827492,
+    "latitude": -6.172472,
+    "population": 9125000
+  },
+  {
+    "name": "Bogota",
+    "longitude": -74.08529,
+    "latitude": 4.598369,
+    "population": 7772000
+  },
+  {
+    "name": "Cairo",
+    "longitude": 31.248022,
+    "latitude": 30.051906,
+    "population": 11893000
+  },
+  {
+    "name": "Shanghai",
+    "longitude": 121.434559,
+    "latitude": 31.218398,
+    "population": 14987000
+  },
+  {
+    "name": "Tokyo",
+    "longitude": 139.749462,
+    "latitude": 35.686963,
+    "population": 35676000
+  },
+  {
+    "name": "Mumbai",
+    "longitude": 72.875839,
+    "latitude": 19.068408,
+    "population": 18978000
+  },
+  {
+    "name": "Paris",
+    "longitude": 2.352992,
+    "latitude": 48.858092,
+    "population": 9904000
+  },
+  {
+    "name": "Santiago",
+    "longitude": -70.650504,
+    "latitude": -33.440205,
+    "population": 5720000
+  },
+  {
+    "name": "Kolkata",
+    "longitude": 88.369126,
+    "latitude": 22.569579,
+    "population": 14787000
+  },
+  {
+    "name": "Rio de Janeiro",
+    "longitude": -43.212117,
+    "latitude": -22.907308,
+    "population": 11748000
+  },
+  {
+    "name": "São Paulo",
+    "longitude": -46.626966,
+    "latitude": -23.556734,
+    "population": 18845000
+  },
+  {
+    "name": "Sydney",
+    "longitude": 151.212548,
+    "latitude": -33.871373,
+    "population": 4630000
+  },
+  {
+    "name": "Singapore",
+    "longitude": 103.853875,
+    "latitude": 1.294979,
+    "population": 5183700
+  },
+  {
+    "name": "Hong Kong",
+    "longitude": 114.183064,
+    "latitude": 22.306927,
+    "population": 7206000
+  }
+]

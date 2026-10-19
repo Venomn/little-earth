@@ -1,0 +1,42 @@
+Little Earth — Free and open source / 羊毛小地球 · 免费开源
+
+Requirements: Apple Silicon Mac (M-series), macOS 14 or later.
+系统要求：Apple Silicon（M 系列）Mac，macOS 14 或更新版本。
+Intel Macs are not included in this beta / 本轮尚不支持 Intel Mac。
+
+Install: Drag Little Earth into Applications, then open it from Applications.
+安装：将 Little Earth 拖入 Applications（应用程序），再从应用程序中打开。
+
+Drag the globe to move it. Hold Option while dragging to spin it.
+Click to pause and read. Press Escape or click outside the card to close it.
+Right-click for size, language, weather, ship tracking and Quit.
+拖动移动；Option + 拖动旋转；点击暂停并阅读；Esc 或点击卡片外收起。
+右键菜单可调整大小、语言、天气、船只追踪和退出。
+
+English is the default. Simplified Chinese is available in the right-click menu.
+默认英语；右键菜单中可切换简体中文。
+
+Weather displays regional model estimates from Open-Meteo, not satellite imagery.
+Ship tracking is optional and requires your own AISStream account and API key.
+Keep the key private; enter it only in the app's Ship tracking settings.
+No key is needed to enjoy the globe, weather, culture and marine stories.
+天气是 Open-Meteo 区域模型数据，不是卫星实况。
+船只追踪为可选项，需要自己的 AISStream 账号和 Key；仅在应用设置中填写。
+不配置 Key 也可以使用地球、天气、文化介绍和海洋科普。
+
+Weather, vessel coverage and availability depend on the data providers.
+The felt map and ship symbols are artistic; do not use them for navigation.
+This beta has no automatic updater. Quit the app before replacing it with a later version.
+天气和船位覆盖受数据来源影响；毛毡地图与船模为美术表达，不用于导航。
+本测试版没有自动更新；安装新版前请先退出旧版。
+
+Feedback: open an issue at https://github.com/Venomn/little-earth/issues with macOS version, Mac model,
+steps to reproduce and an optional screenshot. Never include API keys or passwords.
+反馈：在 GitHub 提交 Issue，附 macOS 版本、机型、复现步骤及可选截图。
+不要发送 API Key 或密码。
+
+Remove a saved AIS key from Ship tracking settings before uninstalling.
+Quit the app, then move Little Earth from Applications to Trash.
+Local weather cache and preferences may remain; see PRIVACY.txt.
+卸载前可在船只设置中移除保存的 Key，然后退出并将应用移入废纸篓。
+本地天气缓存和偏好可能保留，详见 PRIVACY.txt。

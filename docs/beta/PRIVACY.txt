@@ -1,0 +1,41 @@
+Little Earth — Data and privacy / 数据与隐私说明
+2026-10-16
+
+This build contains no app analytics, advertising SDK or developer-operated server.
+It does not request your device location, contacts, files, camera or microphone.
+本版本未接入应用分析、广告 SDK 或开发者服务器；不请求设备定位、通讯录、
+个人文件、摄像头或麦克风。
+
+Weather / 天气
+The app connects directly to api.open-meteo.com over HTTPS, sending fixed global
+regional sampling coordinates and requested weather variables, not your location.
+The provider receives network connection information such as your IP address.
+Weather results are cached locally in ~/Library/Application Support/LittleEarth/.
+应用通过 HTTPS 直连 Open-Meteo，发送固定全球采样坐标及天气变量，不发送你的定位。
+服务商会收到 IP 地址等网络连接信息；天气缓存在上述本地目录。
+Provider terms and privacy: https://open-meteo.com/en/terms
+
+Ships / 船只
+When you enable ship tracking, the local app backend connects directly to
+stream.aisstream.io over WSS using your own AISStream API key. The provider
+receives that key, subscription request and network connection information.
+The key is stored in macOS Keychain, not in the distributed app or preferences.
+Received ship positions are held in memory and expire; no developer server receives them.
+开启船只追踪后，本机后台通过 WSS 直连 AISStream，发送你自己的 Key、订阅请求
+及网络连接信息。Key 保存在 macOS 钥匙串，不写入分发包或普通偏好。
+接收的船位保存在内存并过期清理，不发送给开发者服务器。
+Account and provider information: https://aisstream.io/
+Remove the saved key using Ship tracking settings / 可通过船只设置移除已保存的 Key。
+
+Preferences and links / 偏好与链接
+Language, globe size, position and display preferences are stored locally by macOS.
+Source links and account links open external websites, which apply their own policies.
+语言、大小、位置等偏好由 macOS 保存在本机；来源与账号链接打开外部网站，
+这些网站适用各自的隐私规则。
+
+Feedback / 反馈
+The app does not upload feedback automatically. If you send a screenshot to your
+feedback contact, check it for personal content first. Never include API keys/passwords.
+应用不会自动上传反馈；发送截图前请检查个人内容，不要附带 Key 或密码。
+
+Data attribution is in THIRD_PARTY_NOTICES.md / 数据署名见同目录第三方说明。

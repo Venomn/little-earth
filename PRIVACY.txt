@@ -1,4 +1,4 @@
-Little Earth beta — Data and privacy / 数据与隐私说明
+Little Earth — Data and privacy / 数据与隐私说明
 2026-10-16
 
 This build contains no app analytics, advertising SDK or developer-operated server.
@@ -35,7 +35,7 @@ Source links and account links open external websites, which apply their own pol
 
 Feedback / 反馈
 The app does not upload feedback automatically. If you send a screenshot to your
-tester contact, check it for personal content first. Never include API keys/passwords.
+feedback contact, check it for personal content first. Never include API keys/passwords.
 应用不会自动上传反馈；发送截图前请检查个人内容，不要附带 Key 或密码。
 
 Data attribution is in THIRD_PARTY_NOTICES.md / 数据署名见同目录第三方说明。

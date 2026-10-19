@@ -4,6 +4,8 @@ A tiny felt globe that lives on your Mac desktop. Watch the world turn, see regi
 
 [Download Little Earth for free](https://github.com/Venomn/little-earth/releases/tag/v0.8.4-beta.21) · [简体中文](#简体中文) · [Report a problem](https://github.com/Venomn/little-earth/issues)
 
+**Open source · MIT License**
+
 **Apple Silicon (M-series) · macOS 14 or later · v0.8.4 beta, build 21**
 
 | Day | Night |
@@ -57,9 +59,9 @@ The helper runs locally as part of the app; no server setup or extra runtime ins
 - Weather is **regional model data**, not satellite imagery or street-level live observations. There is no device-location permission request. Old or missing weather is marked or hidden rather than replaced with fictional weather.
 - City lights use static city anchors and artistic glow, not live electricity data. Cultural stories and fish profiles are curated offline reading, not live event schedules or fish tracking.
 - No analytics SDK, ads or developer-operated server are included. Weather requests go directly to Open-Meteo. Optional ship requests go directly to AISStream using your own key. Providers receive normal network connection information such as your IP address.
-- Little Earth is free to download and use for personal/non-commercial purposes. Provider availability, usage limits and [Open-Meteo terms](https://open-meteo.com/en/terms) apply. Free distribution is not a grant of commercial rights to an upstream service.
+- Little Earth source code is available under the [MIT License](LICENSE), including permission to modify and redistribute it. Provider availability, usage limits and [Open-Meteo terms](https://open-meteo.com/en/terms) apply. Free distribution is not a grant of commercial rights to an upstream service.
 - There is no automatic updater. Quit the app before replacing it with a later release. Other Mac models, macOS versions and clean installations are still being tested.
-- This repository provides app downloads, documentation and issue tracking. It is not a source-code release.
+- This repository includes the Swift source, tests, bundled artwork/data, build scripts and issue tracking. The existing v0.8.4-beta.21 tag predates the source release; clone the default branch for the complete source.
 
 See [Privacy](PRIVACY.txt) and [data/artwork attribution](THIRD_PARTY_NOTICES.md). Please report bugs in [Issues](https://github.com/Venomn/little-earth/issues), including Mac model, macOS version, app version and steps to reproduce. Do not include passwords, API keys or screenshots containing private information.
 
@@ -94,7 +96,41 @@ See [Privacy](PRIVACY.txt) and [data/artwork attribution](THIRD_PARTY_NOTICES.md
 
 天气来自 Open-Meteo 区域模型，不是卫星实况或精确城市预报；城市灯光为美术化表达，文化内容不是当天活动日程。应用不请求设备定位，不接入分析或广告 SDK。船只 Key 只保存在本机钥匙串，不要发到评论、Issue 或聊天里。
 
-Little Earth 可免费下载、免费个人/非商业使用，数据服务的条款、额度和可用性仍适用。暂无自动更新，升级前请先退出旧版。遇到问题请到 [Issues](https://github.com/Venomn/little-earth/issues) 附机型、系统版本、复现步骤及不含私人内容的截图。
+Little Earth 免费，并以 [MIT 许可证](LICENSE)开放源码，允许修改和再分发。数据服务的条款、额度和可用性仍单独适用。暂无自动更新，升级前请先退出旧版。遇到问题请到 [Issues](https://github.com/Venomn/little-earth/issues) 附机型、系统版本、复现步骤及不含私人内容的截图。
+
+## Build from source
+
+On an Apple Silicon Mac with macOS 14+, install Xcode Command Line Tools (`xcode-select --install`) or Xcode with a Swift 5.9+ toolchain. No third-party Swift packages are required.
+
+```sh
+git clone https://github.com/Venomn/little-earth.git
+cd little-earth
+swift test --disable-sandbox
+LITTLE_EARTH_OUTPUT="$HOME/Applications/Little Earth Source.app" bash scripts/build-app.sh
+open "$HOME/Applications/Little Earth Source.app"
+```
+
+This creates a locally ad-hoc-signed app at `~/Applications/Little Earth Source.app`, without replacing your installed release. Keep the output outside iCloud/Dropbox-synced directories: Finder metadata added by sync software can invalidate the signature. Quit any running Little Earth before opening it. The source build uses the same bundle ID, preferences, cache and Keychain item as the release; macOS may ask you to authorize access to your own saved ship key again. The compiler needs to match your installed macOS SDK.
+
+Run native AppKit tests in a logged-in macOS desktop session. A headless or sandboxed environment cannot run the full native suite; a build or skipped UI test does not prove desktop interactions. No AIS key is required to build or run tests.
+
+- `Sources/EarthCore`: geography, weather, culture, marine reading, vessels and localization.
+- `Sources/LittleEarth`: AppKit desktop host, SceneKit globe, felt artwork, cards and local vessel helper.
+- `Tests`: model, lifecycle and native interaction tests.
+- `Assets`, `Tools`: source materials and texture-generation tools; runtime textures are already bundled.
+- `scripts/build-app.sh`: local `.app` packaging. `scripts/package-beta.sh`: optional release packaging using **your own** Developer ID and notarization credentials.
+
+Local builds are not Apple-notarized releases. Signing certificates, private keys, user API keys, weather/ship caches, logs and promotion exports are not part of this repository. Art-direction prompts/concept images mentioned in the historical attribution are not needed to build; the runtime resources are included.
+
+## License
+
+Original project code and accompanying project-created assets are distributed under [MIT](LICENSE), to the extent rights are held. Natural Earth datasets remain public domain. Third-party data and online services retain their own terms; MIT does not grant API access or waive provider charges/usage limits. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for data and generated-artwork provenance.
+
+## 从源码构建
+
+需要 M 系列 Mac、macOS 14+，以及 Xcode 命令行工具或带 Swift 5.9+ 的 Xcode。执行上面的 `git clone`、`swift test` 和构建命令即可；产物在 `~/Applications/Little Earth Source.app`，不会覆盖已安装版本。请将产物放在非云同步目录，避免同步软件附加的 Finder 元数据使签名失效。打开前先退出旧版。源码版本与发行版共用偏好、缓存和钥匙串条目，读取已有船只 Key 时系统可能要求重新授权。
+
+源码、测试、运行所需贴图和数据、资源工具及打包脚本均已包含，不需要开发者的账号或私钥。原生界面测试需要已登录的 macOS 桌面；无窗口服务时无法运行完整的原生界面测试。原 v0.8.4-beta.21 标签早于这次开源，完整源码请克隆默认分支。MIT 允许使用、修改和分发项目代码；第三方数据/API 仍适用各自条款。
 
 ## Feedback / 反馈
 

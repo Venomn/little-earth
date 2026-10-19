@@ -1,0 +1,614 @@
+[
+  {
+    "id": "japan-spring",
+    "placeIDs": [
+      "JPN"
+    ],
+    "regionLabel": "日本 · 各地风物",
+    "timeZone": "Asia/Tokyo",
+    "theme": "春日风物",
+    "title": "坐到樱花树下",
+    "body": "春天，日本许多地方有赏樱的习惯，人们结伴看花、迎接春日。花期随纬度和天气移动，并非各地同时盛开。",
+    "sourceName": "日本国家旅游局",
+    "sourceURL": "https://www.japan.travel/en/ca/seasonal-information/",
+    "months": [
+      3,
+      4,
+      5
+    ],
+    "window": null,
+    "bounds": null,
+    "priority": 10,
+    "english": {
+      "regionLabel": "Japan · Seasonal traditions",
+      "theme": "Spring",
+      "title": "Under the cherry blossoms",
+      "body": "In spring, people in many parts of Japan gather to enjoy cherry blossoms. Flowering moves with latitude and weather, so each place welcomes its own moment of spring.",
+      "sourceName": "Japan National Tourism Organization"
+    }
+  },
+  {
+    "id": "japan-summer",
+    "placeIDs": [
+      "JPN"
+    ],
+    "regionLabel": "日本 · 各地风物",
+    "timeZone": "Asia/Tokyo",
+    "theme": "夏日风物",
+    "title": "夏夜，走进祭典",
+    "body": "夏季是日本许多地方举办祭典的时节，七八月尤其热闹。各地的庆祝方式和日期各有不同。",
+    "sourceName": "日本国家旅游局",
+    "sourceURL": "https://www.japan.travel/en/ca/seasonal-information/",
+    "months": [
+      6,
+      7,
+      8
+    ],
+    "window": null,
+    "bounds": null,
+    "priority": 10,
+    "english": {
+      "regionLabel": "Japan · Seasonal traditions",
+      "theme": "Summer",
+      "title": "An evening at a festival",
+      "body": "Summer is festival season in many parts of Japan, especially in July and August. Each community has its own celebrations and calendar.",
+      "sourceName": "Japan National Tourism Organization"
+    }
+  },
+  {
+    "id": "japan-autumn",
+    "placeIDs": [
+      "JPN"
+    ],
+    "regionLabel": "日本 · 各地风物",
+    "timeZone": "Asia/Tokyo",
+    "theme": "秋日风物",
+    "title": "追着秋色去散步",
+    "body": "秋天，日本许多地方的人们会出游赏红叶，也品尝收获季的食材。山地与城市变色的时间不同，秋色会慢慢向南移动。",
+    "sourceName": "日本国家旅游局",
+    "sourceURL": "https://www.japan.travel/en/ca/seasonal-information/",
+    "months": [
+      9,
+      10,
+      11
+    ],
+    "window": null,
+    "bounds": null,
+    "priority": 10,
+    "english": {
+      "regionLabel": "Japan · Seasonal traditions",
+      "theme": "Autumn",
+      "title": "A walk in autumn colors",
+      "body": "Autumn brings outings to see colorful leaves and meals with harvest-season ingredients. Mountain and city foliage change at different times, with autumn colors gradually moving south.",
+      "sourceName": "Japan National Tourism Organization"
+    }
+  },
+  {
+    "id": "japan-winter",
+    "placeIDs": [
+      "JPN"
+    ],
+    "regionLabel": "日本 · 各地风物",
+    "timeZone": "Asia/Tokyo",
+    "theme": "冬日风物",
+    "title": "在温泉里暖一暖",
+    "body": "冬天，泡温泉是一种感受季节的方式。在北海道、长野等多雪地区，滑雪也成为人们亲近冬日山野的活动。",
+    "sourceName": "日本国家旅游局",
+    "sourceURL": "https://www.japan.travel/en/ca/seasonal-information/",
+    "months": [
+      12,
+      1,
+      2
+    ],
+    "window": null,
+    "bounds": null,
+    "priority": 10,
+    "english": {
+      "regionLabel": "Japan · Seasonal traditions",
+      "theme": "Winter",
+      "title": "Warm up in a hot spring",
+      "body": "A soak in a hot spring is one way to enjoy a Japanese winter. In snowy regions such as Hokkaido and Nagano, skiing also draws people into the mountains.",
+      "sourceName": "Japan National Tourism Organization"
+    }
+  },
+  {
+    "id": "japan-new-year",
+    "placeIDs": [
+      "JPN"
+    ],
+    "regionLabel": "日本 · 新年传统",
+    "timeZone": "Asia/Tokyo",
+    "theme": "节庆故事 · 岁末年初",
+    "title": "迎接新年的日子",
+    "body": "新年是日本冬季的重要节庆时段，各地有不同的迎年习俗。这是一段了解当地传统的日子，具体活动仍以当地安排为准。",
+    "sourceName": "日本国家旅游局",
+    "sourceURL": "https://www.japan.travel/en/gc/when-to-go/",
+    "months": [],
+    "window": [
+      1228,
+      107
+    ],
+    "bounds": null,
+    "priority": 20,
+    "english": {
+      "regionLabel": "Japan · New Year traditions",
+      "theme": "Festival stories · New Year",
+      "title": "Welcoming a new year",
+      "body": "New Year is an important part of winter in Japan, with different traditions across the country. It is a chance to explore local customs; individual events follow local schedules.",
+      "sourceName": "Japan National Tourism Organization"
+    }
+  },
+  {
+    "id": "korea-kimjang",
+    "placeIDs": [
+      "KOR"
+    ],
+    "regionLabel": "韩国 · 越冬泡菜文化",
+    "timeZone": "Asia/Seoul",
+    "theme": "深秋生活",
+    "title": "一起准备过冬的味道",
+    "body": "深秋，一些家庭和社区会一起腌制、分享越冬泡菜。人们留意天气来安排制作时间，配方也随家庭和地区而不同。",
+    "sourceName": "UNESCO 非物质文化遗产",
+    "sourceURL": "https://ich.unesco.org/en/RL/kimjang-making-and-sharing-kimchi-in-the-republic-of-korea-00881",
+    "months": [
+      10,
+      11
+    ],
+    "window": null,
+    "bounds": null,
+    "priority": 10,
+    "english": {
+      "regionLabel": "South Korea · Kimjang traditions",
+      "theme": "Late autumn",
+      "title": "Preparing a taste of winter",
+      "body": "In late autumn, some families and communities make and share kimchi for winter. They watch the weather to choose when to work, while recipes vary by family and region.",
+      "sourceName": "UNESCO"
+    }
+  },
+  {
+    "id": "korea-sharing",
+    "placeIDs": [
+      "KOR"
+    ],
+    "regionLabel": "韩国 · 泡菜传承",
+    "timeZone": "Asia/Seoul",
+    "theme": "生活文化",
+    "title": "一道菜，连着一家人",
+    "body": "制作和分享泡菜是一项贯穿四季的准备：春天腌海鲜，夏天备盐，夏末晒辣椒。家庭在共同劳动中传递自己的味道。",
+    "sourceName": "UNESCO 非物质文化遗产",
+    "sourceURL": "https://ich.unesco.org/en/RL/kimjang-making-and-sharing-kimchi-in-the-republic-of-korea-00881",
+    "months": [],
+    "window": null,
+    "bounds": null,
+    "priority": 0,
+    "english": {
+      "regionLabel": "South Korea · Kimchi traditions",
+      "theme": "Everyday culture",
+      "title": "A recipe that connects generations",
+      "body": "Making and sharing kimchi involves preparations across the year: salting seafood in spring, preparing salt in summer, and drying chilies in late summer. Families pass on their own tastes by working together.",
+      "sourceName": "UNESCO"
+    }
+  },
+  {
+    "id": "china-solar-terms",
+    "placeIDs": [
+      "CHN"
+    ],
+    "regionLabel": "中国 · 节气文化",
+    "timeZone": "Asia/Shanghai",
+    "theme": "四时与节气",
+    "title": "看天时，过日子",
+    "body": "二十四节气来自对太阳周年运动和自然变化的观察，也影响农事与日常生活。这套知识发源于黄河流域，各地又形成了自己的实践。",
+    "sourceName": "UNESCO 非物质文化遗产",
+    "sourceURL": "https://ich.unesco.org/en/RL/the-twenty-four-solar-terms-knowledge-in-china-of-time-and-practices-developed-through-observation-of-the-suns-annual-motion-00647",
+    "months": [],
+    "window": null,
+    "bounds": null,
+    "priority": 0,
+    "english": {
+      "regionLabel": "China · Solar term traditions",
+      "theme": "Living with the seasons",
+      "title": "Reading the rhythm of the year",
+      "body": "The 24 solar terms grew from observing the Sun’s annual movement and changes in nature. Originating in the Yellow River region, this knowledge shapes farming and daily life, with different local practices.",
+      "sourceName": "UNESCO"
+    }
+  },
+  {
+    "id": "mexico-remembrance",
+    "placeIDs": [
+      "MEX"
+    ],
+    "regionLabel": "墨西哥 · 部分原住民社区",
+    "timeZone": "America/Mexico_City",
+    "theme": "节庆故事 · 十月底至十一月初",
+    "title": "用花与食物寄托思念",
+    "body": "在亡灵节传统中，一些原住民社区用花瓣、蜡烛和逝者喜爱的食物寄托思念。这个时节也与玉米一年耕作周期的完成相联系。",
+    "sourceName": "UNESCO 非物质文化遗产",
+    "sourceURL": "https://ich.unesco.org/en/RL/dia-de-muertos-the-indigenous-festivity-dedicated-to-the-dead-00054",
+    "months": [],
+    "window": [
+      1025,
+      1103
+    ],
+    "bounds": null,
+    "priority": 20,
+    "english": {
+      "regionLabel": "Mexico · Some Indigenous communities",
+      "theme": "Festival stories · Late Oct–early Nov",
+      "title": "Flowers, food, and remembrance",
+      "body": "In Day of the Dead traditions, some Indigenous communities remember loved ones with flower petals, candles, and their favorite foods. This time also connects with the completion of the maize-growing cycle.",
+      "sourceName": "UNESCO"
+    }
+  },
+  {
+    "id": "mexico-memory",
+    "placeIDs": [
+      "MEX"
+    ],
+    "regionLabel": "墨西哥 · 部分原住民社区",
+    "timeZone": "America/Mexico_City",
+    "theme": "生活文化",
+    "title": "食物里的家人记忆",
+    "body": "每年十月底至十一月初，一些原住民社区会在亡灵节准备逝者喜爱的食物。食物与家中的祭台，成为亲人之间延续记忆的方式。",
+    "sourceName": "UNESCO 非物质文化遗产",
+    "sourceURL": "https://ich.unesco.org/en/RL/dia-de-muertos-the-indigenous-festivity-dedicated-to-the-dead-00054",
+    "months": [],
+    "window": null,
+    "bounds": null,
+    "priority": 0,
+    "english": {
+      "regionLabel": "Mexico · Some Indigenous communities",
+      "theme": "Everyday culture",
+      "title": "Family memories in a meal",
+      "body": "In late October and early November, some Indigenous communities prepare a loved one’s favorite foods for the Day of the Dead. Food and home altars help keep family memories alive.",
+      "sourceName": "UNESCO"
+    }
+  },
+  {
+    "id": "usa-thanksgiving",
+    "placeIDs": [
+      "USA"
+    ],
+    "regionLabel": "美国 · 许多家庭的节庆习惯",
+    "timeZone": "America/New_York",
+    "theme": "节庆故事 · 十一月",
+    "title": "围坐在秋日餐桌旁",
+    "body": "十一月的感恩节，许多家庭会聚餐，火鸡、玉米、南瓜和蔓越莓是常见的节庆食材。不同社群对这个节日也有不同的记忆。",
+    "sourceName": "史密森尼美国历史博物馆",
+    "sourceURL": "https://americanhistory.si.edu/explore/stories/story-four-thanksgiving-ingredients",
+    "months": [
+      11
+    ],
+    "window": null,
+    "bounds": null,
+    "priority": 10,
+    "english": {
+      "regionLabel": "United States · Many family traditions",
+      "theme": "Festival stories · November",
+      "title": "Around an autumn table",
+      "body": "For Thanksgiving in November, many families gather for a meal featuring foods such as turkey, corn, squash, and cranberries. Different communities also hold different memories of the holiday.",
+      "sourceName": "Smithsonian"
+    }
+  },
+  {
+    "id": "usa-table",
+    "placeIDs": [
+      "USA"
+    ],
+    "regionLabel": "美国 · 节庆饮食",
+    "timeZone": "America/New_York",
+    "theme": "生活文化",
+    "title": "一张餐桌，四种食材",
+    "body": "火鸡、玉米、南瓜和蔓越莓常出现在感恩节餐桌上。一顿节庆饭背后，能看到食材、历史与家庭相聚的联系。",
+    "sourceName": "史密森尼美国历史博物馆",
+    "sourceURL": "https://americanhistory.si.edu/explore/stories/story-four-thanksgiving-ingredients",
+    "months": [],
+    "window": null,
+    "bounds": null,
+    "priority": 0,
+    "english": {
+      "regionLabel": "United States · Festive food traditions",
+      "theme": "Everyday culture",
+      "title": "Four ingredients, one table",
+      "body": "Turkey, corn, squash, and cranberries often appear on Thanksgiving tables. A festive meal can reveal connections between ingredients, history, and family gatherings.",
+      "sourceName": "Smithsonian"
+    }
+  },
+  {
+    "id": "brazil-capoeira",
+    "placeIDs": [
+      "BRA"
+    ],
+    "regionLabel": "巴西 · 卡波耶拉传统",
+    "timeZone": "America/Sao_Paulo",
+    "theme": "生活文化",
+    "title": "围成一圈，传递技艺",
+    "body": "卡波耶拉把舞蹈与身体对练结合，是一种非裔巴西文化表达。参与者在观察和模仿中传承技艺，也重视彼此尊重。",
+    "sourceName": "联合国驻巴西机构",
+    "sourceURL": "https://brasil.un.org/pt-br/152296-roda-de-capoeira-patrim%C3%B4nio-cultural-imaterial-da-humanidade-unesco",
+    "months": [],
+    "window": null,
+    "bounds": null,
+    "priority": 0,
+    "english": {
+      "regionLabel": "Brazil · Capoeira traditions",
+      "theme": "Everyday culture",
+      "title": "Learning together in a circle",
+      "body": "Capoeira combines dance and physical sparring in an Afro-Brazilian cultural expression. Participants pass on skills through observation and imitation, with an emphasis on mutual respect.",
+      "sourceName": "United Nations Brazil"
+    }
+  },
+  {
+    "id": "france-market",
+    "placeIDs": [
+      "FRA"
+    ],
+    "regionLabel": "法国 · 聚餐文化",
+    "timeZone": "Europe/Paris",
+    "theme": "生活文化",
+    "title": "从集市走向餐桌",
+    "body": "为一顿相聚的饭挑选本地食材、一起准备菜肴，也是法国美食文化的一部分。季节影响食材，餐桌则让家人与朋友交流近况。",
+    "sourceName": "法国旅游发展署",
+    "sourceURL": "https://www.france.fr/en/article/gastronomic-meal-french/",
+    "months": [],
+    "window": null,
+    "bounds": null,
+    "priority": 0,
+    "english": {
+      "regionLabel": "France · Shared meals",
+      "theme": "Everyday culture",
+      "title": "From the market to the table",
+      "body": "Choosing local ingredients and preparing a meal together are part of French food culture. Seasons shape the ingredients, while the table gives friends and family a place to catch up.",
+      "sourceName": "France.fr"
+    }
+  },
+  {
+    "id": "mediterranean-esp",
+    "placeIDs": [
+      "ESP"
+    ],
+    "regionLabel": "西班牙 · 地中海饮食传统",
+    "timeZone": "Europe/Madrid",
+    "theme": "生活文化",
+    "title": "一起吃饭，也一起生活",
+    "body": "在地中海饮食传统中，共享一餐是人与人相处的重要时刻。集市也不仅是买食材的地方，人们在那里交流经验、传递时令知识。",
+    "sourceName": "UNESCO 非物质文化遗产",
+    "sourceURL": "https://ich.unesco.org/en/RL/mediterranean-diet-00884",
+    "months": [],
+    "window": null,
+    "bounds": null,
+    "priority": 0,
+    "english": {
+      "regionLabel": "Spain · Mediterranean food traditions",
+      "theme": "Everyday culture",
+      "title": "Sharing a meal, sharing a day",
+      "body": "In Mediterranean food traditions, a shared meal is an important moment of connection. Markets are also places to exchange experiences and pass on knowledge about seasonal ingredients.",
+      "sourceName": "UNESCO"
+    }
+  },
+  {
+    "id": "mediterranean-ita",
+    "placeIDs": [
+      "ITA"
+    ],
+    "regionLabel": "意大利 · 地中海饮食传统",
+    "timeZone": "Europe/Rome",
+    "theme": "生活文化",
+    "title": "一起吃饭，也一起生活",
+    "body": "在地中海饮食传统中，共享一餐是人与人相处的重要时刻。集市也不仅是买食材的地方，人们在那里交流经验、传递时令知识。",
+    "sourceName": "UNESCO 非物质文化遗产",
+    "sourceURL": "https://ich.unesco.org/en/RL/mediterranean-diet-00884",
+    "months": [],
+    "window": null,
+    "bounds": null,
+    "priority": 0,
+    "english": {
+      "regionLabel": "Italy · Mediterranean food traditions",
+      "theme": "Everyday culture",
+      "title": "Sharing a meal, sharing a day",
+      "body": "In Mediterranean food traditions, a shared meal is an important moment of connection. Markets are also places to exchange experiences and pass on knowledge about seasonal ingredients.",
+      "sourceName": "UNESCO"
+    }
+  },
+  {
+    "id": "mediterranean-prt",
+    "placeIDs": [
+      "PRT"
+    ],
+    "regionLabel": "葡萄牙 · 地中海饮食传统",
+    "timeZone": "Europe/Lisbon",
+    "theme": "生活文化",
+    "title": "一起吃饭，也一起生活",
+    "body": "在地中海饮食传统中，共享一餐是人与人相处的重要时刻。集市也不仅是买食材的地方，人们在那里交流经验、传递时令知识。",
+    "sourceName": "UNESCO 非物质文化遗产",
+    "sourceURL": "https://ich.unesco.org/en/RL/mediterranean-diet-00884",
+    "months": [],
+    "window": null,
+    "bounds": null,
+    "priority": 0,
+    "english": {
+      "regionLabel": "Portugal · Mediterranean food traditions",
+      "theme": "Everyday culture",
+      "title": "Sharing a meal, sharing a day",
+      "body": "In Mediterranean food traditions, a shared meal is an important moment of connection. Markets are also places to exchange experiences and pass on knowledge about seasonal ingredients.",
+      "sourceName": "UNESCO"
+    }
+  },
+  {
+    "id": "mediterranean-grc",
+    "placeIDs": [
+      "GRC"
+    ],
+    "regionLabel": "希腊 · 地中海饮食传统",
+    "timeZone": "Europe/Athens",
+    "theme": "生活文化",
+    "title": "一起吃饭，也一起生活",
+    "body": "在地中海饮食传统中，共享一餐是人与人相处的重要时刻。集市也不仅是买食材的地方，人们在那里交流经验、传递时令知识。",
+    "sourceName": "UNESCO 非物质文化遗产",
+    "sourceURL": "https://ich.unesco.org/en/RL/mediterranean-diet-00884",
+    "months": [],
+    "window": null,
+    "bounds": null,
+    "priority": 0,
+    "english": {
+      "regionLabel": "Greece · Mediterranean food traditions",
+      "theme": "Everyday culture",
+      "title": "Sharing a meal, sharing a day",
+      "body": "In Mediterranean food traditions, a shared meal is an important moment of connection. Markets are also places to exchange experiences and pass on knowledge about seasonal ingredients.",
+      "sourceName": "UNESCO"
+    }
+  },
+  {
+    "id": "mediterranean-mar",
+    "placeIDs": [
+      "MAR"
+    ],
+    "regionLabel": "摩洛哥 · 地中海饮食传统",
+    "timeZone": "Africa/Casablanca",
+    "theme": "生活文化",
+    "title": "一起吃饭，也一起生活",
+    "body": "在地中海饮食传统中，共享一餐是人与人相处的重要时刻。集市也不仅是买食材的地方，人们在那里交流经验、传递时令知识。",
+    "sourceName": "UNESCO 非物质文化遗产",
+    "sourceURL": "https://ich.unesco.org/en/RL/mediterranean-diet-00884",
+    "months": [],
+    "window": null,
+    "bounds": null,
+    "priority": 0,
+    "english": {
+      "regionLabel": "Morocco · Mediterranean food traditions",
+      "theme": "Everyday culture",
+      "title": "Sharing a meal, sharing a day",
+      "body": "In Mediterranean food traditions, a shared meal is an important moment of connection. Markets are also places to exchange experiences and pass on knowledge about seasonal ingredients.",
+      "sourceName": "UNESCO"
+    }
+  },
+  {
+    "id": "australia-spring",
+    "placeIDs": [
+      "AUS"
+    ],
+    "regionLabel": "澳大利亚 · 南部温带地区",
+    "timeZone": "Australia/Perth",
+    "theme": "南半球 · 春日风物",
+    "title": "去野花盛开的地方走走",
+    "body": "九月至十一月，澳大利亚温带地区迎来春天。西澳赏野花、堪培拉看春花，都是亲近这个季节的方式；花期随地区与天气变化。",
+    "sourceName": "澳大利亚旅游局",
+    "sourceURL": "https://www.australia.com/en/facts-and-planning/when-to-go/australias-seasons/spring.html",
+    "months": [
+      9,
+      10,
+      11
+    ],
+    "window": null,
+    "bounds": [
+      110,
+      -45,
+      155,
+      -23
+    ],
+    "priority": 10,
+    "english": {
+      "regionLabel": "Australia · Southern temperate regions",
+      "theme": "Southern Hemisphere · Spring",
+      "title": "A walk among wildflowers",
+      "body": "September to November brings spring to temperate Australia. Wildflower outings in Western Australia and spring flowers in Canberra offer ways to enjoy it; flowering varies with place and weather.",
+      "sourceName": "Tourism Australia"
+    }
+  },
+  {
+    "id": "australia-tropical-dry",
+    "placeIDs": [
+      "AUS"
+    ],
+    "regionLabel": "澳大利亚 · 热带北部",
+    "timeZone": "Australia/Darwin",
+    "theme": "热带生活 · 旱季",
+    "title": "跟着旱雨季安排出行",
+    "body": "澳大利亚热带北部常按旱季与雨季理解一年。五月至十月通常较干燥，人们安排户外行程时，会留意这套不同于四季的节奏。",
+    "sourceName": "澳大利亚旅游局",
+    "sourceURL": "https://www.australia.com/en-gb/facts-and-planning/when-to-go/australias-seasons.html",
+    "months": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "window": null,
+    "bounds": [
+      110,
+      -23,
+      155,
+      -10
+    ],
+    "priority": 15,
+    "english": {
+      "regionLabel": "Australia · Tropical north",
+      "theme": "Tropical life · Dry season",
+      "title": "Planning around the dry season",
+      "body": "Northern tropical Australia often follows wet and dry seasons. May to October is usually drier, and this rhythm helps people plan outdoor trips rather than relying on a four-season calendar.",
+      "sourceName": "Tourism Australia"
+    }
+  },
+  {
+    "id": "australia-tropical-wet",
+    "placeIDs": [
+      "AUS"
+    ],
+    "regionLabel": "澳大利亚 · 热带北部",
+    "timeZone": "Australia/Darwin",
+    "theme": "热带生活 · 雨季",
+    "title": "雨水改写出行的节奏",
+    "body": "澳大利亚热带北部通常在十一月至四月进入雨季。季节性的雨水会影响道路和户外活动，人们出行时会关注当地天气与开放情况。",
+    "sourceName": "澳大利亚旅游局",
+    "sourceURL": "https://www.australia.com/en-gb/facts-and-planning/when-to-go/australias-seasons.html",
+    "months": [
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "window": null,
+    "bounds": [
+      110,
+      -23,
+      155,
+      -10
+    ],
+    "priority": 15,
+    "english": {
+      "regionLabel": "Australia · Tropical north",
+      "theme": "Tropical life · Wet season",
+      "title": "When rain changes the journey",
+      "body": "Northern tropical Australia usually enters its wet season from November to April. Seasonal rain can affect roads and outdoor activities, so travelers check local conditions and access.",
+      "sourceName": "Tourism Australia"
+    }
+  },
+  {
+    "id": "australia-seasons",
+    "placeIDs": [
+      "AUS"
+    ],
+    "regionLabel": "澳大利亚 · 季节生活",
+    "timeZone": "Australia/Sydney",
+    "theme": "南半球生活",
+    "title": "换一个方向过四季",
+    "body": "澳大利亚温带地区的四季与北半球相反：十二月至二月是夏季，六月至八月是冬季。热带北部则更多按旱季、雨季安排生活和出行。",
+    "sourceName": "澳大利亚旅游局",
+    "sourceURL": "https://www.australia.com/en-gb/facts-and-planning/when-to-go/australias-seasons.html",
+    "months": [],
+    "window": null,
+    "bounds": null,
+    "priority": 0,
+    "english": {
+      "regionLabel": "Australia · Seasonal life",
+      "theme": "Southern Hemisphere",
+      "title": "Seasons in a different rhythm",
+      "body": "Temperate Australia’s seasons are opposite to those in the Northern Hemisphere: December to February is summer, and June to August is winter. The tropical north follows wet and dry seasons instead.",
+      "sourceName": "Tourism Australia"
+    }
+  }
+]

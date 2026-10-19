@@ -1,0 +1,268 @@
+[
+  {
+    "id": "warm-ocean-yellowfin",
+    "regionIDs": [
+      "North Pacific Ocean",
+      "South Pacific Ocean",
+      "North Atlantic Ocean",
+      "South Atlantic Ocean",
+      "INDIAN OCEAN",
+      "Philippine Sea",
+      "South China Sea",
+      "Arabian Sea",
+      "Bay of Bengal",
+      "Coral Sea"
+    ],
+    "latitudeRange": [
+      -25,
+      25
+    ],
+    "english": {
+      "regionLabel": "Warm open ocean",
+      "theme": "Fish of the region · Not live sightings",
+      "title": "Golden fins in the blue",
+      "body": "Yellowfin tuna travel through tropical and subtropical oceans. Their bright yellow fins stand out against a dark blue back. These long-distance swimmers hunt fish and squid; their presence shifts with warm water and food.",
+      "sourceName": "NOAA Fisheries"
+    },
+    "chinese": {
+      "regionLabel": "温暖洋面",
+      "theme": "海域代表鱼类 · 非实时观测",
+      "title": "蓝色海水里的金色鱼鳍",
+      "body": "黄鳍金枪鱼游弋于热带和亚热带海洋，深蓝背部配着鲜黄的鱼鳍。它们会远距离迁徙，追逐鱼和鱿鱼；分布随水温与食物变化，并非每个位置都能见到。",
+      "sourceName": "NOAA 渔业局"
+    },
+    "sourceURL": "https://www.fisheries.noaa.gov/species/pacific-yellowfin-tuna"
+  },
+  {
+    "id": "pacific-albacore",
+    "regionIDs": [
+      "North Pacific Ocean"
+    ],
+    "latitudeRange": [
+      25,
+      60
+    ],
+    "english": {
+      "regionLabel": "Open-ocean waters",
+      "theme": "Fish of the region · Not live sightings",
+      "title": "Long fins, long journeys",
+      "body": "Albacore have unusually long pectoral fins. They migrate across warm temperate waters, with their routes shaped by water temperature.",
+      "sourceName": "NOAA Fisheries"
+    },
+    "chinese": {
+      "regionLabel": "温带洋面",
+      "theme": "海域代表鱼类 · 非实时观测",
+      "title": "长长的鱼鳍，漫长的旅程",
+      "body": "长鳍金枪鱼有特别长的胸鳍，会穿行于暖温带海水之间。水温影响它们的迁徙路线，这是一份海域介绍，不代表此刻附近有鱼群。",
+      "sourceName": "NOAA 渔业局"
+    },
+    "sourceURL": "https://www.fisheries.noaa.gov/species/pacific-albacore-tuna"
+  },
+  {
+    "id": "southern-albacore",
+    "regionIDs": [
+      "South Pacific Ocean",
+      "Tasman Sea"
+    ],
+    "latitudeRange": [
+      -60,
+      -25
+    ],
+    "english": {
+      "regionLabel": "Open-ocean waters",
+      "theme": "Fish of the region · Not live sightings",
+      "title": "Long fins, long journeys",
+      "body": "Albacore have unusually long pectoral fins. They migrate across warm temperate waters, with their routes shaped by water temperature.",
+      "sourceName": "NOAA Fisheries"
+    },
+    "chinese": {
+      "regionLabel": "温带洋面",
+      "theme": "海域代表鱼类 · 非实时观测",
+      "title": "长长的鱼鳍，漫长的旅程",
+      "body": "长鳍金枪鱼有特别长的胸鳍，会穿行于暖温带海水之间。水温影响它们的迁徙路线，这是一份海域介绍，不代表此刻附近有鱼群。",
+      "sourceName": "NOAA 渔业局"
+    },
+    "sourceURL": "https://www.fisheries.noaa.gov/species/pacific-albacore-tuna"
+  },
+  {
+    "id": "indian-albacore",
+    "regionIDs": [
+      "INDIAN OCEAN"
+    ],
+    "latitudeRange": [
+      -60,
+      -25
+    ],
+    "english": {
+      "regionLabel": "Open-ocean waters",
+      "theme": "Fish of the region · Not live sightings",
+      "title": "Long fins, long journeys",
+      "body": "Albacore have unusually long pectoral fins. They migrate across warm temperate waters, with their routes shaped by water temperature.",
+      "sourceName": "NOAA Fisheries"
+    },
+    "chinese": {
+      "regionLabel": "温带洋面",
+      "theme": "海域代表鱼类 · 非实时观测",
+      "title": "长长的鱼鳍，漫长的旅程",
+      "body": "长鳍金枪鱼有特别长的胸鳍，会穿行于暖温带海水之间。水温影响它们的迁徙路线，这是一份海域介绍，不代表此刻附近有鱼群。",
+      "sourceName": "NOAA 渔业局"
+    },
+    "sourceURL": "https://www.fisheries.noaa.gov/species/pacific-albacore-tuna"
+  },
+  {
+    "id": "south-atlantic-albacore",
+    "regionIDs": [
+      "South Atlantic Ocean"
+    ],
+    "latitudeRange": [
+      -60,
+      -25
+    ],
+    "english": {
+      "regionLabel": "Open-ocean waters",
+      "theme": "Fish of the region · Not live sightings",
+      "title": "Long fins, long journeys",
+      "body": "Albacore have unusually long pectoral fins. They migrate across warm temperate waters, with their routes shaped by water temperature.",
+      "sourceName": "NOAA Fisheries"
+    },
+    "chinese": {
+      "regionLabel": "温带洋面",
+      "theme": "海域代表鱼类 · 非实时观测",
+      "title": "长长的鱼鳍，漫长的旅程",
+      "body": "长鳍金枪鱼有特别长的胸鳍，会穿行于暖温带海水之间。水温影响它们的迁徙路线，这是一份海域介绍，不代表此刻附近有鱼群。",
+      "sourceName": "NOAA 渔业局"
+    },
+    "sourceURL": "https://www.fisheries.noaa.gov/species/pacific-albacore-tuna"
+  },
+  {
+    "id": "atlantic-bluefin",
+    "regionIDs": [
+      "North Atlantic Ocean",
+      "Labrador Sea"
+    ],
+    "latitudeRange": [
+      25,
+      70
+    ],
+    "english": {
+      "regionLabel": "North Atlantic",
+      "theme": "Fish of the region · Not live sightings",
+      "title": "A traveler across the Atlantic",
+      "body": "Atlantic bluefin tuna can migrate thousands of miles across the ocean. They often live near the surface, but also dive hundreds of meters deep. Young fish eat fish and squid; adults feed mainly on smaller schooling fish.",
+      "sourceName": "NOAA Fisheries"
+    },
+    "chinese": {
+      "regionLabel": "北大西洋",
+      "theme": "海域代表鱼类 · 非实时观测",
+      "title": "横越大西洋的旅行者",
+      "body": "大西洋蓝鳍金枪鱼可迁徙数千公里，横越海洋。它们常在近表层活动，也会潜入数百米深处。幼鱼吃鱼和鱿鱼，成鱼主要捕食成群的小鱼；实际分布会随海洋条件变化。",
+      "sourceName": "NOAA 渔业局"
+    },
+    "sourceURL": "https://www.fisheries.noaa.gov/species/western-atlantic-bluefin-tuna"
+  },
+  {
+    "id": "mediterranean-bluefin",
+    "regionIDs": [
+      "Mediterranean Sea"
+    ],
+    "latitudeRange": [
+      -90,
+      90
+    ],
+    "english": {
+      "regionLabel": "Mediterranean Sea",
+      "theme": "Fish of the region · Not live sightings",
+      "title": "A sea on the migration route",
+      "body": "The Mediterranean is one of the spawning regions of Atlantic bluefin tuna. These powerful swimmers move between feeding and breeding areas; a regional profile does not mean a school is present at this point.",
+      "sourceName": "NOAA Fisheries"
+    },
+    "chinese": {
+      "regionLabel": "地中海",
+      "theme": "海域代表鱼类 · 非实时观测",
+      "title": "迁徙途中，一片重要的海",
+      "body": "地中海是大西洋蓝鳍金枪鱼的繁殖海域之一。它们在觅食区与繁殖区之间迁徙；这段介绍讲的是海域中的代表鱼类，不意味着点击的位置此刻就有鱼群。",
+      "sourceName": "NOAA 渔业局"
+    },
+    "sourceURL": "https://media.fisheries.noaa.gov/dam-migration/guide-to-tunas-of-the-western-atlantic-ocean.pdf"
+  },
+  {
+    "id": "arctic-cod",
+    "regionIDs": [
+      "Arctic Ocean",
+      "Beaufort Sea",
+      "Baffin Bay"
+    ],
+    "latitudeRange": [
+      60,
+      90
+    ],
+    "english": {
+      "regionLabel": "Arctic waters",
+      "theme": "Fish of the region · Not live sightings",
+      "title": "Small fish in a cold sea",
+      "body": "Arctic cod are adapted to cold waters. Their fat-rich bodies make them valuable food for predators such as ice seals. Changes in sea ice and water temperature can reshape their habitat.",
+      "sourceName": "NOAA Fisheries"
+    },
+    "chinese": {
+      "regionLabel": "北极海域",
+      "theme": "海域代表鱼类 · 非实时观测",
+      "title": "冰冷海水里的小鱼",
+      "body": "极地鳕（Arctic cod）适应寒冷海水，富含脂肪的身体为冰区海豹等捕食者提供能量。海冰和水温的变化会改变它们的栖息环境；这里展示的是生态知识，而非实时位置。",
+      "sourceName": "NOAA 渔业局"
+    },
+    "sourceURL": "https://www.fisheries.noaa.gov/feature-story/implications-less-sea-ice-fish-production-waters-alaska"
+  },
+  {
+    "id": "southern-icefish",
+    "regionIDs": [
+      "SOUTHERN OCEAN",
+      "Weddell Sea",
+      "Ross Sea"
+    ],
+    "latitudeRange": [
+      -90,
+      -55
+    ],
+    "english": {
+      "regionLabel": "Antarctic waters",
+      "theme": "Fish of the region · Not live sightings",
+      "title": "Fish with their own antifreeze",
+      "body": "Antarctic notothenioid fish have antifreeze proteins that help them survive subzero seawater. One group, the icefish, lacks the hemoglobin that makes most vertebrate blood red. These are adaptations of Antarctic fish, not a sighting here.",
+      "sourceName": "British Antarctic Survey"
+    },
+    "chinese": {
+      "regionLabel": "南极海域",
+      "theme": "海域代表鱼类 · 非实时观测",
+      "title": "身体自带“防冻”本领",
+      "body": "南极的许多南极鱼类演化出了抗冻蛋白，能在冰点以下的海水中生存。其中的冰鱼类缺少让大多数脊椎动物血液呈红色的血红蛋白。这是当地鱼类的适应本领，并非现场观测。",
+      "sourceName": "英国南极调查局"
+    },
+    "sourceURL": "https://www.bas.ac.uk/news/fish-survival-in-the-extreme-cold/"
+  },
+  {
+    "id": "caribbean-mahi",
+    "regionIDs": [
+      "Caribbean Sea",
+      "Gulf of Mexico"
+    ],
+    "latitudeRange": [
+      -5,
+      35
+    ],
+    "english": {
+      "regionLabel": "Caribbean and Gulf waters",
+      "theme": "Fish of the region · Not live sightings",
+      "title": "Blue-green flashes near the surface",
+      "body": "Mahi mahi are brilliantly colored fish of warm surface waters. Their backs shimmer blue-green and their sides can look golden. They grow quickly and feed on small fish and other marine animals.",
+      "sourceName": "NOAA Fisheries"
+    },
+    "chinese": {
+      "regionLabel": "加勒比海与墨西哥湾",
+      "theme": "海域代表鱼类 · 非实时观测",
+      "title": "水面下，一闪而过的蓝绿",
+      "body": "鲯鳅（mahi mahi）生活在温暖的近表层海水中，背部闪着蓝绿色，体侧可呈金黄。它们生长很快，以小鱼等海洋动物为食；这份介绍不代表当前位置的实时鱼群。",
+      "sourceName": "NOAA 渔业局"
+    },
+    "sourceURL": "https://www.fisheries.noaa.gov/species/atlantic-mahi-mahi"
+  }
+]
